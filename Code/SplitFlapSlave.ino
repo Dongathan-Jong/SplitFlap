@@ -6,7 +6,7 @@
 #define directionPin 4
 #define stepPin 3 
 
-int offset = 3150;
+int offset = 1858;
 int currentPos;
 int homingOffset;
 bool homing;
